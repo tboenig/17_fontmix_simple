@@ -28,12 +28,18 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>332</td>
+            <td>12</td>
+            <td>81</td>
+            <td>4</td>
+            <td>3</td>
          </tr>
       </tbody>
    </table>
@@ -62,7 +68,65 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>bohse_helicon_1696</td>
+                  <td>35</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>121</td>
+                  <td>5</td>
+               </tr>
+               <tr>
+                  <td>rollenhagen_reysen_1603</td>
+                  <td>22</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>81</td>
+                  <td>3</td>
+               </tr>
+               <tr>
+                  <td>weigel_gnothi02_1618</td>
+                  <td>24</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>130</td>
+                  <td>4</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
