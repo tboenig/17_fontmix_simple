@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>OCR-D</Creator>
+	<Created>2016-09-27T01:59:39</Created>
+	<LastChange>2020-01-21T14:00:36</LastChange></Metadata>
+	<Page imageFilename="weigel_gnothi02_1618_0004.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2091" imageHeight="2951" type="content">
+	<Border>
+	<Coords points="1875,2214 1875,325 610,325 610,2214"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r_1_1" index="0"/>
+	<RegionRefIndexed regionRef="r_1_2" index="1"/>
+	<RegionRefIndexed regionRef="r_1_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r_1_1" type="heading" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1155,334 1381,334 1381,397 1155,397"/>
+	<TextLine id="tl_1" primaryLanguage="German">
+	<Coords points="1156,335 1380,335 1380,396 1156,396"/>
+	<Baseline points="1156,394 1380,394"/>
+	<Word id="w_w1aab1b1b2b1b1ab1" language="German">
+	<Coords points="1156,335 1380,335 1380,396 1156,396"/>
+	<TextEquiv>
+	<Unicode>Vorrede.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Vorrede.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Vorrede.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_1_2" type="paragraph" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="621,407 1867,407 1867,2217 621,2217"/>
+	<TextLine id="tl_2" primaryLanguage="German">
+	<Coords points="674,408 1854,408 1854,477 674,477"/>
+	<Baseline points="674,457 1854,457"/>
+	<Word id="w_w1aab1b1b2b3b1ab1" language="German">
+	<Coords points="674,414 759,414 759,467 674,467"/>
+	<TextEquiv>
+	<Unicode>ſein</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b1ac11" language="German">
+	<Coords points="781,408 892,408 892,461 781,461"/>
+	<TextEquiv>
+	<Unicode>Leib</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b1ac21" language="German">
+	<Coords points="912,414 1034,414 1034,473 912,473"/>
+	<TextEquiv>
+	<Unicode>gantz</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b1ac33" language="German">
+	<Coords points="1051,418 1214,418 1214,461 1051,461"/>
+	<TextEquiv>
+	<Unicode>werde.</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b1ac47" language="German">
+	<Coords points="1273,416 1430,416 1430,467 1273,467"/>
+	<TextEquiv>
+	<Unicode>Gleich</Unicode></TextEquiv></Word>
+	<Word id="word_1479404899217_43" language="German">
+	<Coords points="1539,474 1450,474 1450,416 1539,416"/>
+	<TextEquiv>
+	<Unicode>wie</Unicode></TextEquiv></Word>
+	<Word id="word_1479404904713_45" language="German">
+	<Coords points="1702,474 1539,474 1539,416 1702,416"/>
+	<TextEquiv>
+	<Unicode>Adam</Unicode></TextEquiv></Word>
+	<Word id="word_1479404904712_44" language="German">
+	<Coords points="1854,474 1702,474 1702,416 1854,416"/>
+	<TextEquiv>
+	<Unicode>dieſen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſein Leib gantz werde. Gleich wie Adam dieſen</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_3" primaryLanguage="German">
+	<Coords points="675,460 1853,460 1853,535 675,535"/>
+	<Baseline points="675,518 1853,518"/>
+	<Word id="w_w1aab1b1b2b3b3ab1" language="German">
+	<Coords points="675,470 788,470 788,519 675,519"/>
+	<TextEquiv>
+	<Unicode>Leib</Unicode></TextEquiv></Word>
+	<Word id="w0">
+	<Coords points="813,461 813,462 915,462 915,461 922,461 922,463 925,463 925,470 921,470 921,517 920,517 920,518 919,518 919,528 908,528 908,527 907,527 907,526 808,526 808,525 806,525 806,524 804,524 804,521 800,521 800,502 801,502 801,501 802,501 802,497 803,497 803,496 804,496 804,461"/>
+	<TextEquiv>
+	<Unicode>gantz</Unicode></TextEquiv></Word>
+	<Word id="w1">
+	<Coords points="1031,461 1031,475 1043,475 1043,482 1096,482 1096,485 1120,485 1120,490 1123,490 1123,492 1124,492 1124,510 1125,510 1125,511 1124,511 1124,512 1123,512 1123,513 1118,513 1118,514 1117,514 1117,516 1116,516 1116,517 1093,517 1093,518 1049,518 1049,519 1048,519 1048,520 1047,520 1047,521 1046,521 1046,522 1045,522 1045,523 1044,523 1044,524 1043,524 1043,523 1042,523 1042,521 1031,521 1031,518 994,518 994,517 951,517 951,516 933,516 933,492 931,492 931,490 930,490 930,469 927,469 927,464 936,464 936,463 937,463 937,461"/>
+	<TextEquiv>
+	<Unicode>machete</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b3ac37" language="German">
+	<Coords points="1135,475 1269,475 1269,523 1135,523"/>
+	<TextEquiv>
+	<Unicode>durch</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b3ac49" language="German">
+	<Coords points="1283,478 1365,478 1365,518 1283,518"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b3ac59" language="German">
+	<Coords points="1381,470 1550,470 1550,531 1381,531"/>
+	<TextEquiv>
+	<Unicode>Suͤſſen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b3ac73" language="German">
+	<Coords points="1561,475 1665,475 1665,533 1561,533"/>
+	<TextEquiv>
+	<Unicode>Biß</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b3ac81" language="German">
+	<Coords points="1676,480 1721,480 1721,520 1676,520"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b3ac87" language="German">
+	<Coords points="1729,467 1853,467 1853,533 1729,533"/>
+	<TextEquiv>
+	<Unicode>Apf-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Leib gantz machete durch den Suͤſſen Biß in Apf-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_4" primaryLanguage="German">
+	<Coords points="670,522 1848,522 1848,601 670,601"/>
+	<Baseline points="670,575 1848,575"/>
+	<Word id="w_w1aab1b1b2b3b5ab1" language="German">
+	<Coords points="670,532 755,532 755,588 670,588"/>
+	<TextEquiv>
+	<Unicode>fel:</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b5ac11" language="German">
+	<Coords points="768,529 928,529 928,580 768,580"/>
+	<TextEquiv>
+	<Unicode>Zuvor</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b5ac23" language="German">
+	<Coords points="938,534 983,534 983,575 938,575"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b5ac29" language="German">
+	<Coords points="993,530 1123,530 1123,597 993,597"/>
+	<TextEquiv>
+	<Unicode>ſeiner</Unicode></TextEquiv></Word>
+	<Word id="word_1479404937482_47" language="German">
+	<Coords points="1367,587 1131,587 1131,524 1367,524"/>
+	<TextEquiv>
+	<Unicode>vnſchuldt</Unicode></TextEquiv></Word>
+	<Word id="word_1479404937481_46" language="German">
+	<Coords points="1531,587 1367,587 1367,524 1531,524"/>
+	<TextEquiv>
+	<Unicode>Lebete</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b5ac75" language="German">
+	<Coords points="1540,546 1582,546 1582,578 1540,578"/>
+	<TextEquiv>
+	<Unicode>er</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b5ac81" language="German">
+	<Coords points="1592,533 1848,533 1848,599 1592,599"/>
+	<TextEquiv>
+	<Unicode>Engeliſch/</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>fel: Zuvor in ſeiner vnſchuldt Lebete er Engeliſch/</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_5" primaryLanguage="German">
+	<Coords points="667,585 1854,585 1854,646 667,646"/>
+	<Baseline points="667,632 1854,632"/>
+	<Word id="w_w1aab1b1b2b3b7ab1" language="German">
+	<Coords points="667,587 808,587 808,642 667,642"/>
+	<TextEquiv>
+	<Unicode>wuſte</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b7ac13" language="German">
+	<Coords points="825,587 973,587 973,638 825,638"/>
+	<TextEquiv>
+	<Unicode>nichts</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b7ac27" language="German">
+	<Coords points="994,599 1086,599 1086,634 994,634"/>
+	<TextEquiv>
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b7ac35" language="German">
+	<Coords points="1110,592 1189,592 1189,634 1110,634"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b7ac43" language="Latin">
+	<Coords points="1208,587 1497,587 1497,642 1208,642"/>
+	<TextEquiv>
+	<Unicode>Aſtronomia,</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b7ac69" language="German">
+	<Coords points="1520,594 1734,594 1734,636 1520,636"/>
+	<TextEquiv>
+	<Unicode>darinnen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b7ac87" language="German">
+	<Coords points="1766,594 1854,594 1854,637 1766,637"/>
+	<TextEquiv>
+	<Unicode>alle</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>wuſte nichts von der Aſtronomia, darinnen alle</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_6" primaryLanguage="German">
+	<Coords points="668,637 1849,637 1849,706 668,706"/>
+	<Baseline points="668,691 1849,691"/>
+	<Word id="w_w1aab1b1b2b3b9ab1" language="German">
+	<Coords points="1005,637 1050,637 1050,693 991,693 991,694 668,694 668,645 1005,645"/>
+	<TextEquiv>
+	<Unicode>Handwercke/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b9ac29" language="German">
+	<Coords points="1069,643 1237,643 1237,702 1069,702"/>
+	<TextEquiv>
+	<Unicode>Kuͤnſte/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b9ac43" language="German">
+	<Coords points="1247,652 1392,652 1392,700 1247,700"/>
+	<TextEquiv>
+	<Unicode>vnnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b9ac55" language="German">
+	<Coords points="1404,649 1653,649 1653,703 1404,703"/>
+	<TextEquiv>
+	<Unicode>Sprachen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3b9ac73" language="German">
+	<Coords points="1664,649 1849,649 1849,694 1664,694"/>
+	<TextEquiv>
+	<Unicode>verbor-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Handwercke/ Kuͤnſte/ vnnd Sprachen verbor-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_7" primaryLanguage="German">
+	<Coords points="667,699 1861,699 1861,765 667,765"/>
+	<Baseline points="667,747 1861,747"/>
+	<Word id="w_w1aab1b1b2b3c11ab1" language="German">
+	<Coords points="667,714 755,714 755,758 667,758"/>
+	<TextEquiv>
+	<Unicode>gen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c11ab9" language="German">
+	<Coords points="763,706 911,706 911,757 763,757"/>
+	<TextEquiv>
+	<Unicode>lagen.</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c11ac23" language="German">
+	<Coords points="956,704 1080,704 1080,751 956,751"/>
+	<TextEquiv>
+	<Unicode>Aber</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c11ac33" language="German">
+	<Coords points="1090,705 1202,705 1202,755 1090,755"/>
+	<TextEquiv>
+	<Unicode>nach</Unicode></TextEquiv></Word>
+	<Word id="w2">
+	<Coords points="1225,709 1225,710 1226,710 1226,718 1306,718 1306,719 1307,719 1307,720 1308,720 1308,721 1309,721 1309,722 1310,722 1310,723 1311,723 1311,724 1312,724 1312,742 1314,742 1314,744 1313,744 1313,745 1312,745 1312,746 1310,746 1310,747 1308,747 1308,748 1306,748 1306,749 1304,749 1304,750 1304,749 1223,749 1223,748 1222,748 1222,747 1220,747 1220,746 1219,746 1219,745 1218,745 1218,744 1217,744 1217,743 1216,743 1216,739 1215,739 1215,732 1216,732 1216,715 1218,715 1218,714 1219,714 1219,713 1220,713 1220,712 1222,712 1222,711 1223,711 1223,710 1224,710 1224,709"/>
+	<TextEquiv>
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="1348,702 1348,703 1353,703 1353,710 1354,710 1354,711 1393,711 1393,712 1394,712 1391,712 1391,748 1390,748 1390,749 1388,749 1388,750 1387,750 1387,751 1386,751 1386,752 1335,752 1335,754 1334,754 1334,759 1333,759 1333,761 1332,761 1332,762 1331,762 1331,757 1330,757 1330,751 1329,751 1329,739 1328,739 1328,725 1327,725 1327,724 1326,724 1326,723 1327,723 1327,722 1331,722 1331,720 1332,720 1332,719 1333,719 1333,716 1334,716 1334,715 1335,715 1335,714 1336,714 1336,713 1337,713 1337,712 1338,712 1338,711 1339,711 1339,710 1341,710 1341,709 1342,709 1342,708 1346,708 1346,702"/>
+	<TextEquiv>
+	<Unicode>fal</Unicode></TextEquiv></Word>
+	<Word id="w4">
+	<Coords points="1491,701 1491,712 1515,712 1515,720 1521,720 1521,721 1522,721 1522,722 1525,722 1525,723 1526,723 1526,724 1527,724 1527,725 1530,725 1530,728 1531,728 1531,729 1532,729 1532,738 1531,738 1531,740 1530,740 1530,742 1529,742 1529,743 1528,743 1528,744 1526,744 1526,746 1525,746 1525,747 1523,747 1523,748 1522,748 1522,749 1519,749 1519,750 1517,750 1517,751 1489,751 1489,752 1467,752 1467,751 1411,751 1411,750 1410,750 1410,749 1409,749 1409,748 1405,748 1405,747 1403,747 1403,746 1402,746 1402,742 1403,742 1403,724 1404,724 1404,722 1406,722 1406,721 1407,721 1407,720 1464,720 1464,701"/>
+	<TextEquiv>
+	<Unicode>ward</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c11ac65" language="German">
+	<Coords points="1547,714 1590,714 1590,750 1547,750"/>
+	<TextEquiv>
+	<Unicode>er</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c11ac71" language="German">
+	<Coords points="1601,710 1724,710 1724,751 1601,751"/>
+	<TextEquiv>
+	<Unicode>vnnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c11ac81" language="German">
+	<Coords points="1733,708 1861,708 1861,760 1733,760"/>
+	<TextEquiv>
+	<Unicode>ſeine</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>gen lagen. Aber nach dem fal ward er vnnd ſeine</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_8" primaryLanguage="German">
+	<Coords points="665,759 1846,759 1846,820 665,820"/>
+	<Baseline points="665,807 1846,807"/>
+	<Word id="w_w1aab1b1b2b3c13ab1" language="German">
+	<Coords points="665,760 979,760 979,813 665,813"/>
+	<TextEquiv>
+	<Unicode>nachkommen</Unicode></TextEquiv></Word>
+	<Word id="word_1479404961170_49" language="German">
+	<Coords points="1256,817 1001,817 1001,760 1256,760"/>
+	<TextEquiv>
+	<Unicode>geworffen</Unicode></TextEquiv></Word>
+	<Word id="word_1479404961169_48" language="German">
+	<Coords points="1397,817 1256,817 1256,760 1397,760"/>
+	<TextEquiv>
+	<Unicode>vnder</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c13ac53" language="German">
+	<Coords points="1414,769 1499,769 1499,809 1414,809"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c13ac61" language="German">
+	<Coords points="1518,764 1714,764 1714,773 1740,773 1740,774 1741,774 1741,777 1740,777 1740,779 1739,779 1739,781 1738,781 1738,785 1737,785 1737,793 1736,793 1736,794 1735,794 1735,798 1734,798 1734,803 1733,803 1733,809 1732,809 1732,814 1731,814 1731,816 1730,816 1730,817 1714,817 1714,818 1518,818"/>
+	<TextEquiv>
+	<Unicode>Geſtirne/</Unicode></TextEquiv></Word>
+	<Word id="w7">
+	<Coords points="1823,771 1825,771 1825,772 1826,772 1826,775 1830,775 1830,777 1831,777 1831,778 1832,778 1832,779 1833,779 1833,780 1834,780 1834,781 1838,781 1838,782 1839,782 1839,784 1840,784 1840,785 1841,785 1841,786 1842,786 1842,787 1843,787 1843,789 1844,789 1844,798 1843,798 1843,800 1842,800 1842,801 1841,801 1841,802 1840,802 1840,803 1838,803 1838,804 1837,804 1837,805 1836,805 1836,806 1835,806 1835,807 1832,807 1832,808 1831,808 1831,809 1829,809 1829,810 1763,810 1763,811 1761,811 1761,810 1760,810 1760,802 1759,802 1759,796 1758,796 1758,790 1757,790 1757,789 1754,789 1754,788 1753,788 1753,785 1754,785 1754,784 1755,784 1755,783 1756,783 1756,781 1757,781 1757,780 1758,780 1758,779 1789,779 1789,778 1790,778 1790,777 1815,777 1815,776 1816,776 1816,775 1817,775 1817,773 1818,773 1818,772 1823,772 1823,770"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>nachkommen geworffen vnder des Geſtirne/ vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_9" primaryLanguage="German">
+	<Coords points="664,815 1846,815 1846,873 664,873"/>
+	<Baseline points="664,863 1846,863"/>
+	<Word id="w_w1aab1b1b2b3c15ab1" language="German">
+	<Coords points="664,820 799,820 799,874 664,874"/>
+	<TextEquiv>
+	<Unicode>muſte</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c15ac15" language="German">
+	<Coords points="810,815 969,815 969,885 810,885"/>
+	<TextEquiv>
+	<Unicode>fuͤhlen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c15ac29" language="German">
+	<Coords points="978,824 1070,824 1070,865 978,865"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c15ac37" language="German">
+	<Coords points="1085,820 1295,820 1295,876 1085,876"/>
+	<TextEquiv>
+	<Unicode>erfahren</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c15ac55" language="German">
+	<Coords points="1316,825 1387,825 1387,865 1316,865"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c15ac63" language="German">
+	<Coords points="1403,821 1567,821 1567,874 1403,874"/>
+	<TextEquiv>
+	<Unicode>harten</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c15ac77" language="German">
+	<Coords points="1576,823 1749,823 1749,877 1576,877"/>
+	<TextEquiv>
+	<Unicode>ſtreiche</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c15ac95" language="German">
+	<Coords points="1759,826 1846,826 1846,867 1759,867"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>muſte fuͤhlen vnd erfahren die harten ſtreiche des</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_10" primaryLanguage="German">
+	<Coords points="661,871 1851,871 1851,940 661,940"/>
+	<Baseline points="661,921 1866,921"/>
+	<Word id="word_1479404986185_51" language="Latin">
+	<Coords points="865,927 661,927 661,878 865,878"/>
+	<TextEquiv>
+	<Unicode>Zodiaci,</Unicode></TextEquiv></Word>
+	<Word id="word_1479404986184_50" language="German">
+	<Coords points="959,927 865,927 865,878 959,878"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c17ac25" language="German">
+	<Coords points="969,877 1039,877 1039,921 969,921"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c17ac33" language="German">
+	<Coords points="1049,877 1235,877 1235,932 1049,932"/>
+	<TextEquiv>
+	<Unicode>ſchwere</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c17ac49" language="German">
+	<Coords points="1245,876 1349,876 1349,933 1245,933"/>
+	<TextEquiv>
+	<Unicode>Laſt</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c17ac59" language="German">
+	<Coords points="1355,879 1461,879 1461,924 1355,924"/>
+	<TextEquiv>
+	<Unicode>aller</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c17ac71" language="German">
+	<Coords points="1469,877 1720,877 1720,937 1469,937"/>
+	<TextEquiv>
+	<Unicode>Planeten.</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c17ac93" language="German">
+	<Coords points="1755,874 1866,874 1866,932 1755,932"/>
+	<TextEquiv>
+	<Unicode>So</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Zodiaci, vnd die ſchwere Laſt aller Planeten. So</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_11" primaryLanguage="German">
+	<Coords points="661,932 1845,932 1845,993 661,993"/>
+	<Baseline points="672,973 1835,980"/>
+	<Word id="w_w1aab1b1b2b3c19ab5" language="German">
+	<Coords points="664,936 801,936 801,990 664,990"/>
+	<TextEquiv>
+	<Unicode>ſollen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c19ac19" language="German">
+	<Coords points="812,937 900,937 900,979 812,979"/>
+	<TextEquiv>
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c19ac27" language="German">
+	<Coords points="911,946 998,946 998,980 911,980"/>
+	<TextEquiv>
+	<Unicode>nun</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c19ac35" language="German">
+	<Coords points="1011,933 1156,933 1156,980 1011,980"/>
+	<TextEquiv>
+	<Unicode>lernen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c19ac49" language="German">
+	<Coords points="1172,937 1263,937 1263,981 1172,981"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c19ac57" language="German">
+	<Coords points="1272,935 1485,935 1485,990 1272,990"/>
+	<TextEquiv>
+	<Unicode>ſtudieren</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c19ac79" language="German">
+	<Coords points="1499,940 1570,940 1570,981 1499,981"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c19ac87" language="Latin">
+	<Coords points="1588,935 1845,935 1845,982 1588,982"/>
+	<TextEquiv>
+	<Unicode>Aſtronomi-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſollen wir nun lernen vnd ſtudieren die Aſtronomi-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_12" primaryLanguage="German">
+	<Coords points="660,989 1846,989 1846,1052 660,1052"/>
+	<Baseline points="667,1036 1840,1040"/>
+	<Word id="word_1479405016537_53" language="Latin">
+	<Coords points="747,1047 663,1047 663,995 747,995"/>
+	<TextEquiv>
+	<Unicode>am,</Unicode></TextEquiv></Word>
+	<Word id="word_1479405016536_52" language="German">
+	<Coords points="796,1047 747,1047 747,995 796,995"/>
+	<TextEquiv>
+	<Unicode>ſo</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c21ac17" language="German">
+	<Coords points="806,993 951,993 951,1037 806,1037"/>
+	<TextEquiv>
+	<Unicode>lernen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c21ac31" language="German">
+	<Coords points="963,996 1050,996 1050,1038 963,1038"/>
+	<TextEquiv>
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c21ac39" language="German">
+	<Coords points="1063,994 1170,994 1170,1037 1063,1037"/>
+	<TextEquiv>
+	<Unicode>eben</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c21ac49" language="German">
+	<Coords points="1180,990 1291,990 1291,1047 1180,1047"/>
+	<TextEquiv>
+	<Unicode>daß/</Unicode></TextEquiv></Word>
+	<Word id="word_1479405031569_55" language="German">
+	<Coords points="1408,1045 1314,1045 1314,998 1408,998"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="word_1479405031568_54" language="German">
+	<Coords points="1498,1045 1408,1045 1408,998 1498,998"/>
+	<TextEquiv>
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="1535,998 1535,999 1538,999 1538,1000 1608,1000 1608,1004 1644,1004 1644,1005 1645,1005 1645,1008 1644,1008 1644,1009 1643,1009 1643,1015 1642,1015 1642,1019 1641,1019 1641,1026 1640,1026 1640,1029 1639,1029 1639,1036 1638,1036 1638,1037 1637,1037 1637,1042 1636,1042 1636,1044 1635,1044 1635,1045 1634,1045 1634,1046 1633,1046 1633,1047 1632,1047 1632,1048 1520,1048 1520,1049 1519,1049 1519,1050 1516,1050 1516,1036 1515,1036 1515,1015 1512,1015 1512,1013 1514,1013 1514,1012 1516,1012 1516,1011 1517,1011 1517,1009 1518,1009 1518,1008 1519,1008 1519,1006 1520,1006 1520,1005 1521,1005 1521,1004 1522,1004 1522,1003 1523,1003 1523,1002 1524,1002 1524,1001 1525,1001 1525,1000 1529,1000 1529,998"/>
+	<TextEquiv>
+	<Unicode>ſeind/</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="1722,1001 1723,1001 1723,1009 1726,1009 1726,1010 1728,1010 1728,1011 1730,1011 1730,1012 1731,1012 1731,1013 1734,1013 1734,1014 1735,1014 1735,1015 1736,1015 1736,1017 1738,1017 1738,1020 1739,1020 1739,1027 1738,1027 1738,1028 1737,1028 1737,1029 1736,1029 1736,1031 1735,1031 1735,1032 1734,1032 1734,1034 1733,1034 1733,1035 1732,1035 1732,1036 1730,1036 1730,1037 1729,1037 1729,1038 1728,1038 1728,1039 1727,1039 1727,1040 1720,1040 1720,1039 1659,1039 1659,1038 1658,1038 1658,1037 1657,1037 1657,1031 1656,1031 1656,1025 1655,1025 1655,1023 1654,1023 1654,1020 1653,1020 1653,1017 1652,1017 1652,1014 1651,1014 1651,1011 1652,1011 1652,1009 1653,1009 1653,1008 1712,1008 1712,1007 1713,1007 1713,1006 1714,1006 1714,1005 1715,1005 1715,1004 1717,1004 1717,1003 1719,1003 1719,1002 1720,1002 1720,1001 1722,1001 1722,1000"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="word_1479405056210_56" language="German">
+	<Coords points="1846,1050 1746,1050 1746,996 1846,996"/>
+	<TextEquiv>
+	<Unicode>ma-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>am, ſo lernen wir eben daß/ das wir ſeind/ vnd ma-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_13" primaryLanguage="German">
+	<Coords points="665,1048 1841,1048 1841,1113 665,1113"/>
+	<Baseline points="665,1096 1841,1096"/>
+	<Word id="word_1479405073609_59" language="German">
+	<Coords points="775,1104 665,1104 665,1050 775,1050"/>
+	<TextEquiv>
+	<Unicode>chen</Unicode></TextEquiv></Word>
+	<Word id="word_1479405073608_58" language="German">
+	<Coords points="936,1104 775,1104 775,1050 936,1050"/>
+	<TextEquiv>
+	<Unicode>vnſern</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c23ac23" language="German">
+	<Coords points="963,1049 1268,1049 1268,1108 963,1108"/>
+	<TextEquiv>
+	<Unicode>Syderiſchen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c23ac47" language="German">
+	<Coords points="1291,1050 1401,1050 1401,1103 1291,1103"/>
+	<TextEquiv>
+	<Unicode>Leib</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c23ac57" language="German">
+	<Coords points="1426,1054 1549,1054 1549,1062 1576,1062 1576,1106 1549,1106 1549,1111 1426,1111"/>
+	<TextEquiv>
+	<Unicode>gantz/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c23ac73" language="German">
+	<Coords points="1601,1052 1737,1052 1737,1107 1601,1107"/>
+	<TextEquiv>
+	<Unicode>durch</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c23ac85" language="German">
+	<Coords points="1747,1056 1841,1056 1841,1100 1747,1100"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>chen vnſern Syderiſchen Leib gantz/ durch das</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_14" primaryLanguage="German">
+	<Coords points="664,1104 1842,1104 1842,1165 664,1165"/>
+	<Baseline points="664,1152 1842,1152"/>
+	<Word id="w_w1aab1b1b2b3c25ab1" language="German">
+	<Coords points="664,1108 881,1108 881,1162 664,1162"/>
+	<TextEquiv>
+	<Unicode>ſtudieren</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c25ac21" language="German">
+	<Coords points="899,1111 1022,1111 1022,1151 899,1151"/>
+	<TextEquiv>
+	<Unicode>vnnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c25ac31" language="German">
+	<Coords points="1034,1109 1199,1109 1199,1152 1034,1152"/>
+	<TextEquiv>
+	<Unicode>lernen.</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c25ac47" language="German">
+	<Coords points="1254,1105 1396,1105 1396,1155 1254,1155"/>
+	<TextEquiv>
+	<Unicode>Denn</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c25ac57" language="German">
+	<Coords points="1407,1116 1540,1116 1540,1156 1407,1156"/>
+	<TextEquiv>
+	<Unicode>wenn</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c25ac67" language="German">
+	<Coords points="1549,1112 1636,1112 1636,1156 1549,1156"/>
+	<TextEquiv>
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c25ac75" language="German">
+	<Coords points="1646,1113 1737,1113 1737,1156 1646,1156"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c25ac83" language="German">
+	<Coords points="1750,1111 1842,1111 1842,1158 1750,1158"/>
+	<TextEquiv>
+	<Unicode>Er-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſtudieren vnnd lernen. Denn wenn wir das Er-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_15" primaryLanguage="German">
+	<Coords points="662,1165 1842,1165 1842,1225 662,1225"/>
+	<Baseline points="672,1210 1837,1216"/>
+	<Word id="w_w1aab1b1b2b3c27ab5" language="German">
+	<Coords points="662,1166 823,1166 823,1209 662,1209"/>
+	<TextEquiv>
+	<Unicode>kennen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c27ac19" language="German">
+	<Coords points="833,1168 925,1168 925,1210 833,1210"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="952,1169 953,1169 953,1170 954,1170 954,1178 985,1178 985,1179 1103,1179 1103,1178 1104,1178 1104,1173 1105,1173 1105,1172 1106,1172 1106,1171 1107,1171 1107,1170 1108,1170 1108,1169 1109,1169 1109,1170 1108,1170 1108,1172 1107,1172 1107,1176 1106,1176 1106,1181 1105,1181 1105,1184 1104,1184 1104,1186 1103,1186 1103,1191 1102,1191 1102,1196 1101,1196 1101,1197 1100,1197 1100,1198 1099,1198 1099,1199 1098,1199 1098,1215 1094,1215 1094,1210 943,1210 943,1209 942,1209 942,1207 941,1207 941,1205 940,1205 940,1169 952,1169 952,1168"/>
+	<TextEquiv>
+	<Unicode>lernen/</Unicode></TextEquiv></Word>
+	<Word id="w11">
+	<Coords points="1132,1171 1132,1177 1168,1177 1168,1178 1169,1178 1169,1179 1281,1179 1281,1180 1286,1180 1286,1181 1287,1181 1287,1182 1288,1182 1288,1183 1289,1183 1289,1195 1290,1195 1290,1199 1289,1199 1289,1200 1288,1200 1288,1203 1287,1203 1287,1204 1286,1204 1286,1205 1285,1205 1285,1206 1284,1206 1284,1208 1282,1208 1282,1209 1281,1209 1281,1210 1260,1210 1260,1211 1256,1211 1256,1212 1254,1212 1254,1213 1252,1213 1252,1212 1241,1212 1241,1211 1187,1211 1187,1210 1130,1210 1130,1209 1128,1209 1128,1208 1126,1208 1126,1207 1125,1207 1125,1206 1124,1206 1124,1205 1123,1205 1123,1204 1122,1204 1122,1203 1121,1203 1121,1202 1120,1202 1121,1202 1121,1195 1122,1195 1122,1177 1123,1177 1123,1175 1126,1175 1126,1174 1127,1174 1127,1173 1128,1173 1128,1172 1129,1172 1129,1171"/>
+	<TextEquiv>
+	<Unicode>daraus</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c27ac57" language="German">
+	<Coords points="1302,1169 1388,1169 1388,1216 1302,1216"/>
+	<TextEquiv>
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w12">
+	<Coords points="1417,1168 1417,1169 1426,1169 1426,1170 1427,1170 1427,1173 1518,1173 1518,1177 1517,1177 1517,1180 1516,1180 1516,1188 1515,1188 1515,1191 1514,1191 1514,1197 1513,1197 1513,1201 1512,1201 1512,1204 1511,1204 1511,1209 1510,1209 1510,1211 1509,1211 1509,1215 1508,1215 1508,1217 1405,1217 1405,1222 1402,1222 1402,1220 1401,1220 1401,1203 1400,1203 1400,1187 1398,1187 1398,1186 1397,1186 1397,1185 1398,1185 1398,1183 1399,1183 1399,1182 1400,1182 1400,1180 1402,1180 1402,1179 1403,1179 1403,1178 1404,1178 1404,1175 1405,1175 1405,1174 1406,1174 1406,1173 1407,1173 1407,1172 1409,1172 1409,1170 1410,1170 1410,1169 1414,1169 1414,1168"/>
+	<TextEquiv>
+	<Unicode>ſind/</Unicode></TextEquiv></Word>
+	<Word id="w13">
+	<Coords points="1556,1171 1556,1172 1558,1172 1558,1182 1567,1182 1567,1183 1569,1183 1569,1184 1570,1184 1570,1185 1571,1185 1571,1186 1572,1186 1572,1187 1573,1187 1573,1190 1574,1190 1574,1191 1576,1191 1576,1196 1577,1196 1577,1198 1576,1198 1576,1199 1575,1199 1575,1202 1574,1202 1574,1203 1572,1203 1572,1207 1571,1207 1571,1209 1570,1209 1570,1210 1569,1210 1569,1211 1568,1211 1568,1212 1562,1212 1562,1213 1541,1213 1541,1215 1540,1215 1540,1216 1539,1216 1539,1220 1538,1220 1538,1221 1538,1220 1537,1220 1537,1217 1536,1217 1536,1207 1535,1207 1535,1194 1534,1194 1534,1188 1532,1188 1532,1187 1531,1187 1532,1187 1532,1186 1533,1186 1533,1185 1535,1185 1535,1184 1536,1184 1536,1183 1537,1183 1537,1182 1538,1182 1538,1181 1539,1181 1539,1179 1540,1179 1540,1178 1541,1178 1541,1177 1542,1177 1542,1175 1543,1175 1543,1173 1546,1173 1546,1172 1548,1172 1548,1171"/>
+	<TextEquiv>
+	<Unicode>ſo</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c27ac81" language="German">
+	<Coords points="1601,1171 1745,1171 1745,1213 1601,1213"/>
+	<TextEquiv>
+	<Unicode>lernen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c27ac95" language="German">
+	<Coords points="1752,1172 1842,1172 1842,1215 1752,1215"/>
+	<TextEquiv>
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>kennen vnd lernen/ daraus wir ſind/ ſo lernen wir</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_16" primaryLanguage="German">
+	<Coords points="661,1221 1845,1221 1845,1284 661,1284"/>
+	<Baseline points="661,1268 1845,1268"/>
+	<Word id="w_w1aab1b1b2b3c29ab1" language="German">
+	<Coords points="661,1232 753,1232 753,1269 661,1269"/>
+	<TextEquiv>
+	<Unicode>vns</Unicode></TextEquiv></Word>
+	<Word id="w14">
+	<Coords points="876,1225 876,1226 877,1226 877,1227 883,1227 883,1231 982,1231 982,1232 983,1232 983,1233 984,1233 984,1238 985,1238 984,1238 984,1241 983,1241 983,1242 981,1242 981,1246 980,1246 980,1247 973,1247 973,1248 972,1248 972,1250 970,1250 970,1251 968,1251 968,1253 967,1253 967,1254 966,1254 966,1255 964,1255 964,1256 963,1256 963,1257 961,1257 961,1259 959,1259 959,1260 958,1260 958,1261 957,1261 957,1269 861,1269 861,1271 860,1271 860,1275 859,1275 859,1278 857,1278 857,1275 769,1275 769,1269 768,1269 768,1263 767,1263 767,1250 766,1250 766,1242 765,1242 765,1241 764,1241 765,1241 765,1240 767,1240 767,1239 768,1239 768,1238 769,1238 769,1237 770,1237 770,1236 771,1236 771,1235 772,1235 772,1233 773,1233 773,1232 774,1232 774,1231 775,1231 775,1230 776,1230 776,1229 778,1229 778,1228 780,1228 780,1227 783,1227 783,1226 785,1226 785,1225"/>
+	<TextEquiv>
+	<Unicode>ſelbſten/</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="1067,1228 1068,1228 1068,1237 1069,1237 1069,1238 1074,1238 1074,1239 1076,1239 1076,1240 1078,1240 1078,1241 1079,1241 1079,1242 1080,1242 1080,1243 1081,1243 1081,1244 1082,1244 1082,1245 1083,1245 1083,1247 1084,1247 1084,1253 1083,1253 1083,1256 1082,1256 1082,1258 1081,1258 1081,1259 1079,1259 1079,1268 1001,1268 1001,1255 1000,1255 1000,1253 999,1253 999,1249 998,1249 998,1244 996,1244 996,1243 995,1243 995,1241 996,1241 996,1240 997,1240 997,1239 998,1239 998,1238 999,1238 999,1237 1057,1237 1057,1234 1058,1234 1058,1233 1059,1233 1059,1232 1061,1232 1061,1231 1063,1231 1063,1230 1064,1230 1064,1229 1065,1229 1065,1228 1067,1228 1067,1227"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="word_1479405097881_61" language="German">
+	<Coords points="1308,1270 1100,1270 1100,1224 1308,1224"/>
+	<TextEquiv>
+	<Unicode>erkennen</Unicode></TextEquiv></Word>
+	<Word id="word_1479405097880_60" language="German">
+	<Coords points="1399,1270 1308,1270 1308,1224 1399,1224"/>
+	<TextEquiv>
+	<Unicode>vns</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c29ac61" language="German">
+	<Coords points="1417,1223 1559,1223 1559,1282 1417,1282"/>
+	<TextEquiv>
+	<Unicode>ſelbſt.</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c29ac77" language="German">
+	<Coords points="1591,1223 1735,1223 1735,1271 1591,1271"/>
+	<TextEquiv>
+	<Unicode>Denn</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c29ac87" language="German">
+	<Coords points="1750,1230 1845,1230 1845,1271 1750,1271"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>vns ſelbſten/ vnd erkennen vns ſelbſt. Denn das</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_17" primaryLanguage="German">
+	<Coords points="658,1279 1846,1279 1846,1344 658,1344"/>
+	<Baseline points="658,1325 1846,1325"/>
+	<Word id="w_w1aab1b1b2b3c31ab1" language="German">
+	<Coords points="658,1279 837,1279 837,1334 658,1334"/>
+	<TextEquiv>
+	<Unicode>Geſtirn</Unicode></TextEquiv></Word>
+	<Word id="word_1479405118001_63" language="German">
+	<Coords points="911,1337 853,1337 853,1279 911,1279"/>
+	<TextEquiv>
+	<Unicode>iſt</Unicode></TextEquiv></Word>
+	<Word id="word_1479405118001_62" language="German">
+	<Coords points="1039,1337 911,1337 911,1279 1039,1279"/>
+	<TextEquiv>
+	<Unicode>gantz</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c31ac35" language="German">
+	<Coords points="1057,1283 1105,1283 1105,1324 1057,1324"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c31ac41" language="German">
+	<Coords points="1213,1283 1229,1283 1229,1330 1213,1330 1213,1326 1110,1326 1110,1291 1213,1291"/>
+	<TextEquiv>
+	<Unicode>vns/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c31ac53" language="German">
+	<Coords points="1239,1285 1330,1285 1330,1326 1239,1326"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c31ac61" language="German">
+	<Coords points="1342,1284 1465,1284 1465,1341 1342,1341"/>
+	<TextEquiv>
+	<Unicode>gantz</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c31ac73" language="German">
+	<Coords points="1474,1283 1612,1283 1612,1339 1474,1339"/>
+	<TextEquiv>
+	<Unicode>auſſer</Unicode></TextEquiv></Word>
+	<Word id="word_1479405132385_65" language="German">
+	<Coords points="1736,1331 1629,1331 1629,1284 1736,1284"/>
+	<TextEquiv>
+	<Unicode>vns.</Unicode></TextEquiv></Word>
+	<Word id="word_1479405132384_64" language="German">
+	<Coords points="1846,1331 1736,1331 1736,1284 1846,1284"/>
+	<TextEquiv>
+	<Unicode>Ein</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Geſtirn iſt gantz in vns/ vnd gantz auſſer vns. Ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_18" primaryLanguage="German">
+	<Coords points="653,1338 1840,1338 1840,1398 653,1398"/>
+	<Baseline points="653,1384 1840,1384"/>
+	<Word id="w_w1aab1b1b2b3c33ab1" language="German">
+	<Coords points="653,1340 752,1340 752,1386 653,1386"/>
+	<TextEquiv>
+	<Unicode>mal</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c33ab9" language="German">
+	<Coords points="772,1340 937,1340 937,1384 772,1384"/>
+	<TextEquiv>
+	<Unicode>bleibet</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c33ac25" language="German">
+	<Coords points="957,1339 1099,1339 1099,1346 1131,1346 1131,1392 957,1392"/>
+	<TextEquiv>
+	<Unicode>wahr/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c33ac41" language="German">
+	<Coords points="1155,1342 1325,1342 1325,1390 1155,1390"/>
+	<TextEquiv>
+	<Unicode>daraus</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c33ac55" language="German">
+	<Coords points="1345,1345 1423,1345 1423,1384 1345,1384"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c33ac63" language="German">
+	<Coords points="1433,1340 1621,1340 1621,1391 1433,1391"/>
+	<TextEquiv>
+	<Unicode>Menſch</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c33ac77" language="German">
+	<Coords points="1630,1341 1840,1341 1840,1396 1630,1396"/>
+	<TextEquiv>
+	<Unicode>gemacht</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>mal bleibet wahr/ daraus der Menſch gemacht</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_19" primaryLanguage="German">
+	<Coords points="653,1396 1841,1396 1841,1457 653,1457"/>
+	<Baseline points="653,1441 1841,1441"/>
+	<Word id="w_w1aab1b1b2b3c35ab1" language="German">
+	<Coords points="653,1399 746,1399 746,1441 653,1441"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ab9" language="German">
+	<Coords points="755,1397 1016,1397 1016,1449 755,1449"/>
+	<TextEquiv>
+	<Unicode>gewachſen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ac29" language="German">
+	<Coords points="1026,1397 1078,1397 1078,1403 1104,1403 1104,1445 1078,1445 1078,1448 1026,1448"/>
+	<TextEquiv>
+	<Unicode>iſt;</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ac41" language="German">
+	<Coords points="1116,1397 1305,1397 1305,1452 1116,1452"/>
+	<TextEquiv>
+	<Unicode>daſſelbe</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ac59" language="German">
+	<Coords points="1315,1398 1400,1398 1400,1450 1315,1450"/>
+	<TextEquiv>
+	<Unicode>hat</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ac67" language="German">
+	<Coords points="1409,1410 1452,1410 1452,1442 1409,1442"/>
+	<TextEquiv>
+	<Unicode>er</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ac73" language="German">
+	<Coords points="1463,1403 1507,1403 1507,1442 1463,1442"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ac79" language="German">
+	<Coords points="1516,1397 1600,1397 1600,1453 1516,1453"/>
+	<TextEquiv>
+	<Unicode>ſich/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ac89" language="German">
+	<Coords points="1617,1402 1764,1402 1764,1446 1617,1446"/>
+	<TextEquiv>
+	<Unicode>vnnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c35ad101" language="German">
+	<Coords points="1788,1401 1841,1401 1841,1457 1788,1457"/>
+	<TextEquiv>
+	<Unicode>iſt</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>vnd gewachſen iſt; daſſelbe hat er in ſich/ vnnd iſt</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_20" primaryLanguage="German">
+	<Coords points="652,1452 1838,1452 1838,1515 652,1515"/>
+	<Baseline points="652,1498 1838,1498"/>
+	<Word id="word_1479405162345_67" language="German">
+	<Coords points="704,1512 652,1512 652,1452 704,1452"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="word_1479405175609_69" language="German">
+	<Coords points="950,1512 704,1512 704,1452 950,1452"/>
+	<TextEquiv>
+	<Unicode>daſſelbige</Unicode></TextEquiv></Word>
+	<Word id="word_1479405175608_68" language="German">
+	<Coords points="950,1452 1133,1452 1133,1458 1159,1458 1159,1503 1133,1503 1133,1512 950,1512"/>
+	<TextEquiv>
+	<Unicode>geſetzet/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c37ac45" language="German">
+	<Coords points="1177,1459 1268,1459 1268,1500 1177,1500"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c37ac53" language="German">
+	<Coords points="1285,1455 1402,1455 1402,1501 1285,1501"/>
+	<TextEquiv>
+	<Unicode>lebet</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c37ac65" language="German">
+	<Coords points="1410,1459 1456,1459 1456,1500 1410,1500"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c37ac71" language="German">
+	<Coords points="1464,1458 1542,1458 1542,1502 1464,1502"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c37ac79" language="German">
+	<Coords points="1550,1456 1699,1456 1699,1504 1550,1504"/>
+	<TextEquiv>
+	<Unicode>Welt.</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c37ac93" language="German">
+	<Coords points="1730,1456 1838,1456 1838,1504 1730,1504"/>
+	<TextEquiv>
+	<Unicode>Der</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>in daſſelbige geſetzet/ vnd lebet in der Welt. Der</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_21" primaryLanguage="German">
+	<Coords points="654,1510 1838,1510 1838,1574 654,1574"/>
+	<Baseline points="654,1557 1838,1557"/>
+	<Word id="w_w1aab1b1b2b3c39ab1" language="German">
+	<Coords points="654,1510 928,1510 928,1570 654,1570"/>
+	<TextEquiv>
+	<Unicode>Syderiſche</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c39ac23" language="German">
+	<Coords points="947,1513 1073,1513 1073,1568 947,1568"/>
+	<TextEquiv>
+	<Unicode>Geiſt</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c39ac35" language="German">
+	<Coords points="1084,1514 1133,1514 1133,1519 1158,1519 1158,1564 1133,1564 1133,1567 1084,1567"/>
+	<TextEquiv>
+	<Unicode>iſt/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c39ac47" language="German">
+	<Coords points="1168,1516 1253,1516 1253,1559 1168,1559"/>
+	<TextEquiv>
+	<Unicode>wie</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c39ac55" language="German">
+	<Coords points="1263,1515 1422,1515 1422,1519 1450,1519 1450,1564 1422,1564 1422,1570 1263,1570"/>
+	<TextEquiv>
+	<Unicode>geſagt/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c39ac73" language="German">
+	<Coords points="1460,1525 1545,1525 1545,1559 1460,1559"/>
+	<TextEquiv>
+	<Unicode>aus</Unicode></TextEquiv></Word>
+	<Word id="w16">
+	<Coords points="1569,1520 1569,1526 1636,1526 1636,1528 1652,1528 1652,1529 1653,1529 1653,1531 1654,1531 1654,1542 1655,1542 1655,1550 1657,1550 1657,1551 1656,1551 1656,1552 1655,1552 1655,1553 1653,1553 1653,1554 1652,1554 1652,1555 1651,1555 1651,1557 1576,1557 1576,1558 1572,1558 1572,1559 1571,1559 1571,1560 1569,1560 1569,1558 1567,1558 1567,1557 1565,1557 1565,1556 1564,1556 1564,1555 1563,1555 1563,1554 1562,1554 1562,1553 1561,1553 1561,1552 1560,1552 1560,1550 1559,1550 1559,1542 1560,1542 1560,1541 1561,1541 1561,1525 1562,1525 1562,1524 1564,1524 1564,1523 1565,1523 1565,1522 1567,1522 1567,1521 1568,1521 1568,1520"/>
+	<TextEquiv>
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w17">
+	<Coords points="1700,1515 1700,1517 1707,1517 1707,1518 1767,1518 1767,1519 1772,1519 1772,1523 1787,1523 1787,1528 1811,1528 1811,1529 1812,1529 1812,1533 1813,1533 1813,1535 1833,1535 1833,1536 1834,1536 1834,1548 1835,1548 1835,1551 1834,1551 1834,1555 1827,1555 1827,1556 1826,1556 1826,1557 1825,1557 1825,1558 1824,1558 1824,1559 1822,1559 1822,1560 1818,1560 1818,1561 1817,1561 1817,1562 1752,1562 1752,1570 1749,1570 1749,1562 1748,1562 1748,1560 1704,1560 1704,1559 1688,1559 1688,1558 1684,1558 1684,1557 1682,1557 1682,1556 1679,1556 1679,1555 1678,1555 1678,1554 1676,1554 1676,1553 1675,1553 1675,1552 1674,1552 1674,1550 1673,1550 1673,1549 1672,1549 1672,1548 1671,1548 1671,1544 1670,1544 1670,1543 1669,1543 1669,1519 1664,1519 1665,1519 1665,1518 1686,1518 1686,1517 1688,1517 1688,1516 1691,1516 1691,1515"/>
+	<TextEquiv>
+	<Unicode>Geſtir-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Syderiſche Geiſt iſt/ wie geſagt/ aus dem Geſtir-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_22" primaryLanguage="German">
+	<Coords points="652,1569 1837,1569 1837,1633 652,1633"/>
+	<Baseline points="652,1614 1837,1614"/>
+	<Word id="w_w1aab1b1b2b3c41ab1" language="German">
+	<Coords points="652,1573 736,1573 736,1621 652,1621"/>
+	<TextEquiv>
+	<Unicode>ne/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ab9" language="German">
+	<Coords points="745,1572 835,1572 835,1619 745,1619"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ac17" language="German">
+	<Coords points="844,1571 933,1571 933,1629 844,1629"/>
+	<TextEquiv>
+	<Unicode>hat</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ac25" language="German">
+	<Coords points="943,1573 1032,1573 1032,1613 943,1613"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ac33" language="German">
+	<Coords points="1040,1572 1184,1572 1184,1627 1040,1627"/>
+	<TextEquiv>
+	<Unicode>gantze</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ac47" language="German">
+	<Coords points="1192,1571 1465,1571 1465,1627 1192,1627"/>
+	<TextEquiv>
+	<Unicode>Firmament</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ac67" language="German">
+	<Coords points="1478,1578 1524,1578 1524,1616 1478,1616"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ac73" language="German">
+	<Coords points="1533,1571 1615,1571 1615,1575 1637,1575 1637,1619 1615,1619 1615,1626 1533,1626"/>
+	<TextEquiv>
+	<Unicode>ſich/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ac87" language="German">
+	<Coords points="1641,1577 1731,1577 1731,1617 1641,1617"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c41ac95" language="German">
+	<Coords points="1744,1577 1837,1577 1837,1619 1744,1619"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ne/ vnd hat das gantze Firmament in ſich/ vnd das</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_23" primaryLanguage="German">
+	<Coords points="652,1621 1835,1621 1835,1691 652,1691"/>
+	<Baseline points="652,1672 1835,1672"/>
+	<Word id="w_w1aab1b1b2b3c43ab1" language="German">
+	<Coords points="652,1628 848,1628 848,1688 652,1688"/>
+	<TextEquiv>
+	<Unicode>Firment</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c43ac17" language="German">
+	<Coords points="858,1630 950,1630 950,1671 858,1671"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c43ac25" language="German">
+	<Coords points="965,1621 1094,1621 1094,1682 965,1682"/>
+	<TextEquiv>
+	<Unicode>Lufft</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c43ac37" language="German">
+	<Coords points="1106,1628 1157,1628 1157,1682 1106,1682"/>
+	<TextEquiv>
+	<Unicode>iſt</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c43ac45" language="German">
+	<Coords points="1169,1628 1253,1628 1253,1683 1169,1683"/>
+	<TextEquiv>
+	<Unicode>ſein</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c43ac55" language="German">
+	<Coords points="1263,1627 1412,1627 1412,1634 1444,1634 1444,1678 1429,1678 1429,1677 1263,1677"/>
+	<TextEquiv>
+	<Unicode>Leben/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c43ac71" language="German">
+	<Coords points="1462,1634 1583,1634 1583,1675 1462,1675"/>
+	<TextEquiv>
+	<Unicode>vnnd</Unicode></TextEquiv></Word>
+	<Word id="word_1479405217601_71" language="German">
+	<Coords points="1701,1690 1598,1690 1598,1629 1701,1629"/>
+	<TextEquiv>
+	<Unicode>ſein</Unicode></TextEquiv></Word>
+	<Word id="word_1479405217600_70" language="German">
+	<Coords points="1835,1690 1701,1690 1701,1629 1835,1629"/>
+	<TextEquiv>
+	<Unicode>Geiſt</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Firment vnd Lufft iſt ſein Leben/ vnnd ſein Geiſt</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_24" primaryLanguage="German">
+	<Coords points="652,1684 1831,1684 1831,1740 652,1740"/>
+	<Baseline points="652,1729 1831,1729"/>
+	<Word id="w_w1aab1b1b2b3c45ab1" language="German">
+	<Coords points="652,1685 770,1685 770,1731 652,1731"/>
+	<TextEquiv>
+	<Unicode>lebet</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c45ac13" language="German">
+	<Coords points="780,1688 1016,1688 1016,1730 780,1730"/>
+	<TextEquiv>
+	<Unicode>darinnen.</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c45ac33" language="German">
+	<Coords points="1068,1685 1224,1685 1224,1737 1068,1737"/>
+	<TextEquiv>
+	<Unicode>Gleich</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c45ac47" language="German">
+	<Coords points="1249,1691 1334,1691 1334,1732 1249,1732"/>
+	<TextEquiv>
+	<Unicode>wie</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c45ac55" language="German">
+	<Coords points="1354,1691 1431,1691 1431,1736 1354,1736"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c45ac63" language="German">
+	<Coords points="1439,1685 1695,1685 1695,1737 1439,1737"/>
+	<TextEquiv>
+	<Unicode>Sichtbare</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c45ac83" language="German">
+	<Coords points="1718,1686 1831,1686 1831,1736 1718,1736"/>
+	<TextEquiv>
+	<Unicode>Leib</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>lebet darinnen. Gleich wie der Sichtbare Leib</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_25" primaryLanguage="German">
+	<Coords points="650,1742 1835,1742 1835,1802 650,1802"/>
+	<Baseline points="650,1788 1835,1788"/>
+	<Word id="w_w1aab1b1b2b3c47ab1" language="German">
+	<Coords points="650,1746 696,1746 696,1787 650,1787"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="word_1479405236617_73" language="German">
+	<Coords points="800,1797 705,1797 705,1743 800,1743"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="word_1479405236616_72" language="German">
+	<Coords points="1052,1797 800,1797 800,1743 1052,1743"/>
+	<TextEquiv>
+	<Unicode>Leiblichen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c47ac37" language="German">
+	<Coords points="1059,1742 1320,1742 1320,1790 1059,1790"/>
+	<TextEquiv>
+	<Unicode>Elementen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c47ac57" language="German">
+	<Coords points="1334,1745 1480,1745 1480,1799 1334,1799"/>
+	<TextEquiv>
+	<Unicode>weſen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c47ac69" language="German">
+	<Coords points="1498,1747 1622,1747 1622,1788 1498,1788"/>
+	<TextEquiv>
+	<Unicode>vnnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c47ac79" language="German">
+	<Coords points="1630,1747 1835,1747 1835,1802 1630,1802"/>
+	<TextEquiv>
+	<Unicode>wohnen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>in den Leiblichen Elementen weſen vnnd wohnen</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_26" primaryLanguage="German">
+	<Coords points="647,1795 1831,1795 1831,1859 647,1859"/>
+	<Baseline points="647,1845 1831,1845"/>
+	<Word id="w18">
+	<Coords points="750,1801 750,1802 753,1802 753,1810 754,1810 754,1811 756,1811 756,1812 761,1812 761,1813 764,1813 764,1814 766,1814 766,1815 767,1815 766,1815 766,1816 765,1816 765,1840 764,1840 764,1841 762,1841 762,1842 753,1842 753,1845 752,1845 752,1846 751,1846 751,1847 750,1847 750,1849 749,1849 749,1850 748,1850 748,1851 747,1851 747,1852 743,1852 743,1855 741,1855 741,1856 741,1855 733,1855 733,1854 732,1854 732,1853 729,1853 729,1845 656,1845 656,1844 650,1844 650,1820 649,1820 649,1819 648,1819 648,1818 649,1818 649,1817 650,1817 650,1816 651,1816 651,1815 653,1815 653,1814 654,1814 654,1813 731,1813 731,1812 732,1812 732,1810 733,1810 733,1808 734,1808 734,1807 735,1807 735,1806 736,1806 736,1805 737,1805 737,1804 738,1804 738,1803 740,1803 740,1802 742,1802 742,1801"/>
+	<TextEquiv>
+	<Unicode>muß.</Unicode></TextEquiv></Word>
+	<Word id="w19">
+	<Coords points="811,1801 811,1802 890,1802 890,1815 897,1815 897,1816 900,1816 900,1820 901,1820 901,1822 902,1822 902,1823 903,1823 903,1829 902,1829 902,1835 901,1835 901,1837 900,1837 900,1839 899,1839 899,1842 898,1842 898,1843 897,1843 897,1844 896,1844 896,1845 895,1845 895,1846 894,1846 894,1847 893,1847 893,1849 892,1849 892,1850 891,1850 891,1851 890,1851 890,1850 878,1850 878,1849 877,1849 877,1847 808,1847 808,1846 777,1846 777,1841 776,1841 776,1839 771,1839 771,1838 770,1838 770,1809 769,1809 771,1809 771,1808 772,1808 772,1807 773,1807 773,1805 774,1805 774,1804 775,1804 775,1803 776,1803 776,1802 799,1802 799,1801"/>
+	<TextEquiv>
+	<Unicode>Nach</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c49ac21" language="German">
+	<Coords points="919,1803 995,1803 995,1847 919,1847"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c49ac29" language="German">
+	<Coords points="1004,1800 1194,1800 1194,1857 1004,1857"/>
+	<TextEquiv>
+	<Unicode>heiligen</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c49ac47" language="German">
+	<Coords points="1203,1797 1409,1797 1409,1857 1203,1857"/>
+	<TextEquiv>
+	<Unicode>Schrifft</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c49ac65" language="German">
+	<Coords points="1417,1802 1469,1802 1469,1856 1417,1856"/>
+	<TextEquiv>
+	<Unicode>iſt</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c49ac73" language="German">
+	<Coords points="1475,1797 1588,1797 1588,1846 1475,1846"/>
+	<TextEquiv>
+	<Unicode>keine</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c49ac85" language="German">
+	<Coords points="1598,1800 1831,1800 1831,1850 1598,1850"/>
+	<TextEquiv>
+	<Unicode>Notwen-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>muß. Nach der heiligen Schrifft iſt keine Notwen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_27" primaryLanguage="German">
+	<Coords points="643,1852 1828,1852 1828,1919 643,1919"/>
+	<Baseline points="643,1903 1828,1903"/>
+	<Word id="w_w1aab1b1b2b3c51ab1" language="German">
+	<Coords points="643,1861 796,1861 796,1913 643,1913"/>
+	<TextEquiv>
+	<Unicode>digere</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c51ac15" language="German">
+	<Coords points="810,1858 924,1858 924,1909 810,1909"/>
+	<TextEquiv>
+	<Unicode>noch</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c51ac25" language="German">
+	<Coords points="942,1852 1182,1852 1182,1916 942,1916"/>
+	<TextEquiv>
+	<Unicode>nuͤtziichere</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c51ac49" language="Latin">
+	<Coords points="1208,1861 1390,1861 1390,1890 1432,1890 1432,1910 1410,1910 1410,1904 1208,1904"/>
+	<TextEquiv>
+	<Unicode>Scientia,</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c51ac69" language="German">
+	<Coords points="1451,1862 1527,1862 1527,1905 1451,1905"/>
+	<TextEquiv>
+	<Unicode>als</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c51ac77" language="Latin">
+	<Coords points="1548,1860 1828,1860 1828,1909 1548,1909"/>
+	<TextEquiv>
+	<Unicode>Aſtronomia.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>digere noch nuͤtziichere Scientia, als Aſtronomia.</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_28" primaryLanguage="German">
+	<Coords points="645,1904 1838,1904 1838,1986 645,1986"/>
+	<Baseline points="645,1960 1838,1960"/>
+	<Word id="w_w1aab1b1b2b3c53ab1" language="German">
+	<Coords points="645,1916 786,1916 786,1965 645,1965"/>
+	<TextEquiv>
+	<Unicode>Denn</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c53ac11" language="German">
+	<Coords points="795,1915 851,1915 851,1968 795,1968"/>
+	<TextEquiv>
+	<Unicode>ſie</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c53ac19" language="German">
+	<Coords points="860,1916 1006,1916 1006,1970 860,1970"/>
+	<TextEquiv>
+	<Unicode>giebet</Unicode></TextEquiv></Word>
+	<Word id="word_1479405271466_75" language="German">
+	<Coords points="1084,1971 1016,1971 1016,1913 1084,1913"/>
+	<TextEquiv>
+	<Unicode>ein</Unicode></TextEquiv></Word>
+	<Word id="word_1479405271465_74" language="German">
+	<Coords points="1225,1971 1084,1971 1084,1913 1225,1913"/>
+	<TextEquiv>
+	<Unicode>guten</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c53ac51" language="German">
+	<Coords points="1237,1919 1354,1919 1354,1971 1237,1971"/>
+	<TextEquiv>
+	<Unicode>theil</Unicode></TextEquiv></Word>
+	<Word id="word_1479405286546_77" language="German">
+	<Coords points="1468,1985 1373,1985 1373,1906 1468,1906"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w20" language="Greek">
+	<Coords points="1551,1918 1551,1919 1553,1919 1553,1921 1554,1921 1554,1925 1555,1925 1555,1936 1565,1936 1565,1952 1568,1952 1568,1953 1569,1953 1569,1977 1520,1977 1520,1985 1468,1985 1468,1982 1473,1982 1473,1940 1474,1940 1474,1938 1475,1938 1475,1937 1478,1937 1478,1936 1503,1936 1503,1935 1521,1935 1521,1923 1522,1923 1522,1922 1523,1922 1523,1920 1549,1920 1549,1919 1550,1919 1550,1918"/>
+	<TextEquiv>
+	<Unicode>γνῶθι</Unicode></TextEquiv></Word>
+	<Word id="w21" language="Greek">
+	<Coords points="1692,1920 1695,1920 1695,1925 1696,1925 1696,1937 1713,1937 1713,1938 1714,1938 1714,1951 1722,1951 1722,1952 1724,1952 1724,1954 1725,1954 1725,1955 1726,1955 1726,1957 1727,1957 1727,1959 1728,1959 1728,1963 1727,1963 1727,1964 1726,1964 1726,1966 1725,1966 1725,1967 1723,1967 1723,1968 1722,1968 1722,1969 1720,1969 1720,1970 1715,1970 1715,1969 1714,1969 1714,1958 1669,1958 1669,1957 1668,1957 1668,1956 1580,1956 1580,1955 1577,1955 1577,1954 1576,1954 1576,1953 1575,1953 1575,1950 1574,1950 1575,1950 1575,1945 1576,1945 1576,1942 1577,1942 1577,1940 1578,1940 1578,1939 1579,1939 1579,1938 1580,1938 1580,1937 1581,1937 1581,1936 1584,1936 1584,1935 1598,1935 1598,1933 1690,1933 1690,1927 1691,1927 1691,1920 1692,1920 1692,1919"/>
+	<TextEquiv>
+	<Unicode>σεαυτὸν,</Unicode></TextEquiv></Word>
+	<Word id="word_1479405392824_78" language="German">
+	<Coords points="1838,1985 1731,1985 1731,1906 1838,1906"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Denn ſie giebet ein guten theil das γνῶθι σεαυτὸν, vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_29" primaryLanguage="German">
+	<Coords points="642,1973 1827,1973 1827,2038 642,2038"/>
+	<Baseline points="641,2020 1827,2020"/>
+	<Word id="w_w1aab1b1b2b3c55ab1" language="German">
+	<Coords points="642,1976 780,1976 780,2027 642,2027"/>
+	<TextEquiv>
+	<Unicode>zeiget</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c55ac15" language="German">
+	<Coords points="786,1984 845,1984 845,2017 786,2017"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c55ac21" language="German">
+	<Coords points="855,1977 940,1977 940,2017 855,2017"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c55ac29" language="German">
+	<Coords points="950,1973 1123,1973 1123,2028 950,2028"/>
+	<TextEquiv>
+	<Unicode>rechten</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c55ac45" language="German">
+	<Coords points="1130,1979 1222,1979 1222,2019 1130,2019"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c55ac53" language="German">
+	<Coords points="1241,1976 1440,1976 1440,2034 1241,2034"/>
+	<TextEquiv>
+	<Unicode>falſchen</Unicode></TextEquiv></Word>
+	<Word id="word_1479405424713_81" language="Latin">
+	<Coords points="1750,2037 1457,2037 1457,1977 1750,1977"/>
+	<TextEquiv>
+	<Unicode>Theologum,</Unicode></TextEquiv></Word>
+	<Word id="word_1479405424712_80" language="Latin">
+	<Coords points="1827,2037 1750,2037 1750,1977 1827,1977"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>zeiget an den rechten vnd falſchen Theologum, die</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_30" primaryLanguage="German">
+	<Coords points="642,2022 1827,2022 1827,2094 642,2094"/>
+	<Baseline points="642,2077 1827,2077"/>
+	<Word id="w_w1aab1b1b2b3c57ab1" language="German">
+	<Coords points="642,2032 782,2032 782,2082 642,2082"/>
+	<TextEquiv>
+	<Unicode>rechte</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c57ac15" language="German">
+	<Coords points="791,2035 884,2035 884,2076 791,2076"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c57ac23" language="German">
+	<Coords points="895,2022 1058,2022 1058,2085 895,2085"/>
+	<TextEquiv>
+	<Unicode>falſche</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c57ac39" language="German">
+	<Coords points="1069,2030 1229,2030 1229,2038 1258,2038 1258,2085 1242,2085 1242,2083 1069,2083"/>
+	<TextEquiv>
+	<Unicode>Kirche/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c57ac57" language="German">
+	<Coords points="1272,2037 1361,2037 1361,2078 1272,2078"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c57ac65" language="German">
+	<Coords points="1373,2033 1423,2033 1423,2088 1373,2088"/>
+	<TextEquiv>
+	<Unicode>iſt</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c57ac73" language="German">
+	<Coords points="1433,2037 1500,2037 1500,2078 1433,2078"/>
+	<TextEquiv>
+	<Unicode>ein</Unicode></TextEquiv></Word>
+	<Word id="word_1479405449705_83" language="German">
+	<Coords points="1730,2093 1514,2093 1514,2036 1730,2036"/>
+	<TextEquiv>
+	<Unicode>Partickel</Unicode></TextEquiv></Word>
+	<Word id="word_1479405449704_82" language="German">
+	<Coords points="1827,2093 1730,2093 1730,2036 1827,2036"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>rechte vnd falſche Kirche/ vnd iſt ein Partickel der</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_31" primaryLanguage="German">
+	<Coords points="641,2087 1824,2087 1824,2148 641,2148"/>
+	<Baseline points="641,2135 1824,2135"/>
+	<Word id="w_w1aab1b1b2b3c59ab1" language="Latin">
+	<Coords points="641,2087 895,2087 895,2145 641,2145"/>
+	<TextEquiv>
+	<Unicode>Theologiæ.</Unicode></TextEquiv></Word>
+	<Word id="word_1479405465713_85" language="German">
+	<Coords points="1162,2142 955,2142 955,2088 1162,2088"/>
+	<TextEquiv>
+	<Unicode>Dieweil</Unicode></TextEquiv></Word>
+	<Word id="word_1479405472753_87" language="German">
+	<Coords points="1260,2142 1162,2142 1162,2088 1260,2088"/>
+	<TextEquiv>
+	<Unicode>nun</Unicode></TextEquiv></Word>
+	<Word id="word_1479405472753_86" language="German">
+	<Coords points="1349,2142 1260,2142 1260,2088 1349,2088"/>
+	<TextEquiv>
+	<Unicode>alle</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="1554,2090 1554,2103 1631,2103 1630,2103 1630,2105 1629,2105 1629,2107 1628,2107 1628,2108 1627,2108 1627,2110 1626,2110 1626,2113 1625,2113 1625,2117 1624,2117 1624,2124 1623,2124 1623,2126 1622,2126 1622,2132 1621,2132 1621,2133 1620,2133 1620,2138 1541,2138 1541,2140 1524,2140 1524,2141 1523,2141 1523,2142 1523,2141 1522,2141 1522,2139 1359,2139 1359,2138 1358,2138 1358,2136 1359,2136 1359,2134 1360,2134 1360,2133 1362,2133 1362,2131 1363,2131 1363,2128 1364,2128 1364,2105 1365,2105 1365,2104 1366,2104 1366,2103 1367,2103 1367,2102 1369,2102 1369,2101 1371,2101 1371,2100 1372,2100 1372,2099 1373,2099 1373,2098 1374,2098 1374,2097 1375,2097 1375,2096 1376,2096 1376,2095 1377,2095 1377,2094 1380,2094 1380,2093 1514,2093 1514,2090"/>
+	<TextEquiv>
+	<Unicode>Menſchen/</Unicode></TextEquiv></Word>
+	<Word id="w6">
+	<Coords points="1638,2095 1728,2095 1728,2096 1729,2096 1729,2107 1732,2107 1732,2108 1733,2108 1733,2110 1736,2110 1736,2111 1737,2111 1737,2112 1738,2112 1738,2113 1739,2113 1739,2114 1740,2114 1740,2116 1741,2116 1741,2122 1740,2122 1740,2124 1739,2124 1739,2131 1738,2131 1738,2132 1737,2132 1737,2134 1736,2134 1736,2136 1735,2136 1735,2137 1734,2137 1734,2139 1733,2139 1733,2141 1728,2141 1728,2140 1717,2140 1717,2139 1674,2139 1674,2138 1672,2138 1672,2137 1648,2137 1648,2135 1635,2135 1635,2126 1634,2126 1634,2122 1635,2122 1635,2120 1636,2120 1636,2114 1638,2114 1638,2094"/>
+	<TextEquiv>
+	<Unicode>auch</Unicode></TextEquiv></Word>
+	<Word id="word_1479405498896_88" language="German">
+	<Coords points="1824,2143 1747,2143 1747,2094 1824,2094"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Theologiæ. Dieweil nun alle Menſchen/ auch die</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_32" primaryLanguage="German">
+	<Coords points="646,2141 1818,2141 1818,2200 646,2200"/>
+	<Baseline points="635,2193 1818,2193"/>
+	<Word id="w_w1aab1b1b2b3c61ab1" language="Latin">
+	<Coords points="635,2141 807,2141 807,2213 635,2213"/>
+	<TextEquiv>
+	<Unicode>Renati,</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c61ac17" language="German">
+	<Coords points="817,2145 915,2145 915,2205 817,2205"/>
+	<TextEquiv>
+	<Unicode>jhre</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c61ac27" language="German">
+	<Coords points="928,2144 1235,2144 1235,2205 928,2205"/>
+	<TextEquiv>
+	<Unicode>Handierung</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c61ac49" language="German">
+	<Coords points="1243,2154 1334,2154 1334,2195 1243,2195"/>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c61ac57" language="German">
+	<Coords points="1345,2150 1566,2150 1566,2157 1600,2157 1600,2202 1585,2202 1585,2197 1345,2197"/>
+	<TextEquiv>
+	<Unicode>Gewerbe/</Unicode></TextEquiv></Word>
+	<Word id="w_w1aab1b1b2b3c61ac77" language="German">
+	<Coords points="1623,2148 1790,2148 1790,2156 1818,2156 1818,2206 1801,2206 1801,2205 1623,2205"/>
+	<TextEquiv>
+	<Unicode>Kuͤnſte/</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Renati, jhre Handierung vnd Gewerbe/ Kuͤnſte/</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ſein Leib gantz werde. Gleich wie Adam dieſen
+Leib gantz machete durch den Suͤſſen Biß in Apf-
+fel: Zuvor in ſeiner vnſchuldt Lebete er Engeliſch/
+wuſte nichts von der Aſtronomia, darinnen alle
+Handwercke/ Kuͤnſte/ vnnd Sprachen verbor-
+gen lagen. Aber nach dem fal ward er vnnd ſeine
+nachkommen geworffen vnder des Geſtirne/ vnd
+muſte fuͤhlen vnd erfahren die harten ſtreiche des
+Zodiaci, vnd die ſchwere Laſt aller Planeten. So
+ſollen wir nun lernen vnd ſtudieren die Aſtronomi-
+am, ſo lernen wir eben daß/ das wir ſeind/ vnd ma-
+chen vnſern Syderiſchen Leib gantz/ durch das
+ſtudieren vnnd lernen. Denn wenn wir das Er-
+kennen vnd lernen/ daraus wir ſind/ ſo lernen wir
+vns ſelbſten/ vnd erkennen vns ſelbſt. Denn das
+Geſtirn iſt gantz in vns/ vnd gantz auſſer vns. Ein
+mal bleibet wahr/ daraus der Menſch gemacht
+vnd gewachſen iſt; daſſelbe hat er in ſich/ vnnd iſt
+in daſſelbige geſetzet/ vnd lebet in der Welt. Der
+Syderiſche Geiſt iſt/ wie geſagt/ aus dem Geſtir-
+ne/ vnd hat das gantze Firmament in ſich/ vnd das
+Firment vnd Lufft iſt ſein Leben/ vnnd ſein Geiſt
+lebet darinnen. Gleich wie der Sichtbare Leib
+in den Leiblichen Elementen weſen vnnd wohnen
+muß. Nach der heiligen Schrifft iſt keine Notwen-
+digere noch nuͤtziichere Scientia, als Aſtronomia.
+Denn ſie giebet ein guten theil das γνῶθι σεαυτὸν, vnd
+zeiget an den rechten vnd falſchen Theologum, die
+rechte vnd falſche Kirche/ vnd iſt ein Partickel der
+Theologiæ. Dieweil nun alle Menſchen/ auch die
+Renati, jhre Handierung vnd Gewerbe/ Kuͤnſte/</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_1_3" type="catch-word" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="1563,2195 1818,2195 1818,2268 1563,2268"/>
+	<TextLine id="tl_33" primaryLanguage="German">
+	<Coords points="1564,2196 1817,2196 1817,2267 1564,2267"/>
+	<Baseline points="1564,2252 1817,2252"/>
+	<Word id="w_w1aab1b1b2b5b1ab1" language="German">
+	<Coords points="1564,2196 1817,2196 1817,2266 1564,2266"/>
+	<TextEquiv>
+	<Unicode>Sprachen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Sprachen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Sprachen</Unicode></TextEquiv></TextRegion></Page></PcGts>
