@@ -8,7 +8,7 @@
       <dd>Ground Truth with a collection of documents with the following characteristics: 
 fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page, colour chart </dd>
       <dt>Language:</dt>
-      <dd>eng, fra, deu</dd>
+      <dd>grc, heb, deu</dd>
       <dt>Format:</dt>
       <dd>Page-XML</dd>
       <dt>Time:</dt>
@@ -98,7 +98,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/17_fontmix_simple/releases/download/v7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
+         <a href="https://github.com/tboenig/17_fontmix_simple/releases/download/v8/bagitDump-v8.zip">Current version download: bagitDump-v8.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/17_fontmix_simple/releases">Version archive</a>

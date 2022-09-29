@@ -19,7 +19,7 @@
       <dd>Ground Truth with a collection of documents with the following characteristics: 
 fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page, colour chart </dd>
       <dt>Language:</dt>
-      <dd>eng, fra, deu</dd>
+      <dd>grc, heb, deu</dd>
       <dt>Format:</dt>
       <dd>Page-XML</dd>
       <dt>Time:</dt>
