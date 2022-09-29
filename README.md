@@ -5,7 +5,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
-      <dd>eng, fra, deu</dd>
+      <dd>grc, heb, deu</dd>
       <dt id="Format">Format:</dt>
       <dd>Page-XML</dd>
       <dt id="Time">Time:</dt>
