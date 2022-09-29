@@ -39,36 +39,14 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
    <p>Here you will find a description and explanation of the labeling metadata.</p>
    <details>
-      <summary>granularity/physical/document-related/word</summary>
+      <summary>condition/acquisition/method-flaws/imaging/uneven-illumination</summary>
       <p>
-         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
+         <strong>Description: </strong>Uneven illumination leading to brightness or contrast variations</p>
    </details>
    <details>
-      <summary>granularity/physical/document-related/text-line</summary>
+      <summary>condition/production-related/document-characteristics/low-contrast</summary>
       <p>
-         <strong>Description: </strong>
-                        Description coming soon.
-                    </p>
-   </details>
-   <details>
-      <summary>granularity/physical/document-related/region</summary>
-      <p>
-         <strong>Description: </strong>Region, zone, block</p>
-   </details>
-   <details>
-      <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
-      <p>
-         <strong>Description: </strong>More than one typeface used</p>
-   </details>
-   <details>
-      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-      <p>
-         <strong>Description: </strong>More than one font size used</p>
-   </details>
-   <details>
-      <summary>data-attributes/language/mixed</summary>
-      <p>
-         <strong>Description: </strong>More than one language used</p>
+         <strong>Description: </strong>The contrast bwtween the paper and the page content is very low</p>
    </details>
    <details>
       <summary>condition/production-related/document-faults/ink-from-facing</summary>
@@ -81,14 +59,36 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
          <strong>Description: </strong>Annotations regarding the content</p>
    </details>
    <details>
-      <summary>condition/production-related/document-characteristics/low-contrast</summary>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
       <p>
-         <strong>Description: </strong>The contrast bwtween the paper and the page content is very low</p>
+         <strong>Description: </strong>More than one font size used</p>
    </details>
    <details>
-      <summary>condition/acquisition/method-flaws/imaging/uneven-illumination</summary>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
       <p>
-         <strong>Description: </strong>Uneven illumination leading to brightness or contrast variations</p>
+         <strong>Description: </strong>More than one typeface used</p>
+   </details>
+   <details>
+      <summary>data-attributes/language/mixed</summary>
+      <p>
+         <strong>Description: </strong>More than one language used</p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <strong>Description: </strong>Region, zone, block</p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>
+         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
    </details>
 </div>
 <div class="metadata">
@@ -98,7 +98,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/17_fontmix_simple/releases/download/v6/bagitDump-v6.zip">Current version download: bagitDump-v6.zip</a>
+         <a href="https://github.com/tboenig/17_fontmix_simple/releases/download/v7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/17_fontmix_simple/releases">Version archive</a>
