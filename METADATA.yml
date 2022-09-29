@@ -22,8 +22,8 @@ description: >-
 project-name: OCR-D
 project-website: https://ocr-d.de/
 language:
-  - eng
-  - fra
+  - grc
+  - heb
   - deu
 script:
   - Latn
