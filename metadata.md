@@ -98,7 +98,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/17_fontmix_simple/releases/download/v8/bagitDump-v8.zip">Current version download: bagitDump-v8.zip</a>
+         <a href="https://github.com/tboenig/17_fontmix_simple/releases/download/v9/bagitDump-v9.zip">Current version download: bagitDump-v9.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/17_fontmix_simple/releases">Version archive</a>

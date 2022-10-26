@@ -134,6 +134,63 @@
    </thead>
    <tbody>
       <tr>
+         <th>bohse_helicon_1696_0022.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>21</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>bohse_helicon_1696_0009.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>18</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>bohse_helicon_1696_0007.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>19</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>bohse_helicon_1696_0036.xml</th>
          <td>10</td>
          <td>0</td>
@@ -172,27 +229,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>bohse_helicon_1696_0009.xml</th>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>18</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>bohse_helicon_1696_0022.xml</th>
-         <td>4</td>
+         <th>rollenhagen_reysen_1603_0007.xml</th>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -206,26 +244,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>21</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>bohse_helicon_1696_0007.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>19</td>
+         <td>23</td>
          <td>1</td>
       </tr>
       <tr>
@@ -267,14 +286,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>rollenhagen_reysen_1603_0007.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
+         <th>weigel_gnothi02_1618_0016.xml</th>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -282,7 +295,13 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>23</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>34</td>
          <td>1</td>
       </tr>
       <tr>
@@ -305,27 +324,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>weigel_gnothi02_1618_0016.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>34</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>weigel_gnothi02_1618_0004.xml</th>
-         <td>3</td>
+         <th>weigel_gnothi02_1618_0112.xml</th>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -343,8 +343,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>weigel_gnothi02_1618_0112.xml</th>
-         <td>9</td>
+         <th>weigel_gnothi02_1618_0004.xml</th>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
