@@ -249,7 +249,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
@@ -270,7 +270,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -291,7 +291,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -312,7 +312,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
@@ -333,7 +333,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -403,7 +403,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
@@ -424,7 +424,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -445,7 +445,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -515,7 +515,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -536,7 +536,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -557,7 +557,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -578,7 +578,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>0 0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
