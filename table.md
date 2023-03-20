@@ -240,17 +240,17 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0022.xml">bohse_helicon_1696_0022.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0009.xml">bohse_helicon_1696_0009.xml</a>
                            </td>
-                           <td>21</td>
+                           <td>18</td>
                            <td>1</td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -261,17 +261,17 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0009.xml">bohse_helicon_1696_0009.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0022.xml">bohse_helicon_1696_0022.xml</a>
                            </td>
-                           <td>18</td>
+                           <td>21</td>
                            <td>1</td>
-                           <td>6</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -291,7 +291,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
-                           <td>0 0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -312,7 +312,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0 0</td>
+                           <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
@@ -333,7 +333,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
-                           <td>0 0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -403,29 +403,8 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0 0</td>
+                           <td>0</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0012.xml">rollenhagen_reysen_1603_0012.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -445,7 +424,28 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0 0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0012.xml">rollenhagen_reysen_1603_0012.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -506,48 +506,6 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0016.xml">weigel_gnothi02_1618_0016.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0003.xml">weigel_gnothi02_1618_0003.xml</a>
-                           </td>
-                           <td>30</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0 0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
                               <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0112.xml">weigel_gnothi02_1618_0112.xml</a>
                            </td>
                            <td>33</td>
@@ -557,7 +515,28 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0 0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0016.xml">weigel_gnothi02_1618_0016.xml</a>
+                           </td>
+                           <td>34</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -578,7 +557,28 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0 0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0003.xml">weigel_gnothi02_1618_0003.xml</a>
+                           </td>
+                           <td>30</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>

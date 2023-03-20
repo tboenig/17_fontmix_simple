@@ -146,6 +146,16 @@ An image database</p>
          <strong>Description: </strong>More than one typeface used</p>
    </details>
    <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+      <p>
+         <strong>Description: </strong>Antiqua font (more modern)</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+      <p>
+         <strong>Description: </strong>Blackletter, gothic, Fraktur</p>
+   </details>
+   <details>
       <summary>data-attributes/language/mixed</summary>
       <p>
          <strong>Description: </strong>More than one language used</p>
@@ -196,7 +206,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/17_fontmix_simple/releases/download/v15/bagitDump-v15.zip">Current version download: bagitDump-v15.zip</a>
+         <a href="https://github.com/tboenig/17_fontmix_simple/releases/download/v16/bagitDump-v16.zip">Current version download: bagitDump-v16.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/17_fontmix_simple/releases">Version archive</a>
