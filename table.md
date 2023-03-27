@@ -240,7 +240,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0009.xml">bohse_helicon_1696_0009.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0009.xml">bohse_helicon_1696_0009.xml</a>
                            </td>
                            <td>18</td>
                            <td>1</td>
@@ -261,7 +261,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0022.xml">bohse_helicon_1696_0022.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0022.xml">bohse_helicon_1696_0022.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -282,7 +282,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0007.xml">bohse_helicon_1696_0007.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0007.xml">bohse_helicon_1696_0007.xml</a>
                            </td>
                            <td>19</td>
                            <td>1</td>
@@ -303,7 +303,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0036.xml">bohse_helicon_1696_0036.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0036.xml">bohse_helicon_1696_0036.xml</a>
                            </td>
                            <td>36</td>
                            <td>1</td>
@@ -324,7 +324,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0021.xml">bohse_helicon_1696_0021.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0021.xml">bohse_helicon_1696_0021.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -394,7 +394,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0007.xml">rollenhagen_reysen_1603_0007.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0007.xml">rollenhagen_reysen_1603_0007.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -415,7 +415,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0011.xml">rollenhagen_reysen_1603_0011.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0011.xml">rollenhagen_reysen_1603_0011.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -436,7 +436,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0012.xml">rollenhagen_reysen_1603_0012.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0012.xml">rollenhagen_reysen_1603_0012.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -506,7 +506,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0112.xml">weigel_gnothi02_1618_0112.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0112.xml">weigel_gnothi02_1618_0112.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -527,7 +527,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0016.xml">weigel_gnothi02_1618_0016.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0016.xml">weigel_gnothi02_1618_0016.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -548,7 +548,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0004.xml">weigel_gnothi02_1618_0004.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0004.xml">weigel_gnothi02_1618_0004.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -569,7 +569,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/main/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0003.xml">weigel_gnothi02_1618_0003.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0003.xml">weigel_gnothi02_1618_0003.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
