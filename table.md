@@ -240,49 +240,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0009.xml">bohse_helicon_1696_0009.xml</a>
-                           </td>
-                           <td>18</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0022.xml">bohse_helicon_1696_0022.xml</a>
-                           </td>
-                           <td>21</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0007.xml">bohse_helicon_1696_0007.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0007.xml">bohse_helicon_1696_0007.xml</a>
                            </td>
                            <td>19</td>
                            <td>1</td>
@@ -303,7 +261,7 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0036.xml">bohse_helicon_1696_0036.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0036.xml">bohse_helicon_1696_0036.xml</a>
                            </td>
                            <td>36</td>
                            <td>1</td>
@@ -324,11 +282,186 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0021.xml">bohse_helicon_1696_0021.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0021.xml">bohse_helicon_1696_0021.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
                            <td>8</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0009.xml">bohse_helicon_1696_0009.xml</a>
+                           </td>
+                           <td>18</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/bohse_helicon_1696/GT-PAGE/bohse_helicon_1696_0022.xml">bohse_helicon_1696_0022.xml</a>
+                           </td>
+                           <td>21</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>weigel_gnothi02_1618</th>
+               <td>130</td>
+               <td>4</td>
+               <td>24</td>
+               <td>0</td>
+               <td>0</td>
+               <td>1</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0112.xml">weigel_gnothi02_1618_0112.xml</a>
+                           </td>
+                           <td>33</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0004.xml">weigel_gnothi02_1618_0004.xml</a>
+                           </td>
+                           <td>33</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0016.xml">weigel_gnothi02_1618_0016.xml</a>
+                           </td>
+                           <td>34</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0003.xml">weigel_gnothi02_1618_0003.xml</a>
+                           </td>
+                           <td>30</td>
+                           <td>1</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
@@ -394,7 +527,49 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0007.xml">rollenhagen_reysen_1603_0007.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0012.xml">rollenhagen_reysen_1603_0012.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0011.xml">rollenhagen_reysen_1603_0011.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.1.1/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0007.xml">rollenhagen_reysen_1603_0007.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -405,181 +580,6 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0011.xml">rollenhagen_reysen_1603_0011.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/rollenhagen_reysen_1603/GT-PAGE/rollenhagen_reysen_1603_0012.xml">rollenhagen_reysen_1603_0012.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>weigel_gnothi02_1618</th>
-               <td>130</td>
-               <td>4</td>
-               <td>24</td>
-               <td>0</td>
-               <td>0</td>
-               <td>1</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0112.xml">weigel_gnothi02_1618_0112.xml</a>
-                           </td>
-                           <td>33</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0016.xml">weigel_gnothi02_1618_0016.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0004.xml">weigel_gnothi02_1618_0004.xml</a>
-                           </td>
-                           <td>33</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_simple/blob/v1.0.0/data/weigel_gnothi02_1618/GT-PAGE/weigel_gnothi02_1618_0003.xml">weigel_gnothi02_1618_0003.xml</a>
-                           </td>
-                           <td>30</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
