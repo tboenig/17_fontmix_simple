@@ -89,25 +89,6 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                   <td>5</td>
                </tr>
                <tr>
-                  <td>rollenhagen_reysen_1603</td>
-                  <td>22</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>81</td>
-                  <td>3</td>
-               </tr>
-               <tr>
                   <td>weigel_gnothi02_1618</td>
                   <td>24</td>
                   <td/>
@@ -125,6 +106,25 @@ fonts blackletter and antiqua, ancient Greek, Hebrew, initials, with title page,
                   <td/>
                   <td>130</td>
                   <td>4</td>
+               </tr>
+               <tr>
+                  <td>rollenhagen_reysen_1603</td>
+                  <td>22</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>81</td>
+                  <td>3</td>
                </tr>
             </tbody>
          </table>
